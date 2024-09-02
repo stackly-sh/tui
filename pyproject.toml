@@ -6,7 +6,7 @@ authors = ["Leonardo Jacomussi <leonardojacomussi@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12.5"
+python = "^3.12.3"
 
 
 [tool.poetry.group.dev.dependencies]
